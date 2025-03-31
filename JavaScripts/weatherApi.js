@@ -5,7 +5,7 @@ async function fetchData() {
   
   try {
       // Replace this URL with your actual API endpoint
-      const response = await fetch('https://api.example.com/data');
+      const response = await fetch('http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json');
       
       // Check if response is ok
       if (!response.ok) {
