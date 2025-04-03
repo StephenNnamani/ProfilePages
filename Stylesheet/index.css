@@ -1,6 +1,5 @@
 body{
-    background-image: url(../Images/punkte.jpg);
-    background-size: cover;
+    background-color: rgb(255, 255, 255);
 }
 
 .navbar-brand{
@@ -13,10 +12,8 @@ body{
 }
 
 .bgc{
-    background-image: url(../Images/linie1.jpg);
-    background-size: cover;
-    background-color: rgb(0, 0, 0);
-    color: white;
+    background-color: rgb(1, 233, 233);
+    color: rgb(79, 79, 79);
     margin-bottom: 5%;
 }
 
