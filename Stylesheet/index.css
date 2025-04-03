@@ -7,13 +7,13 @@ body{
     margin-left: 10%;
 }
 .y{
-    background-image: linear-gradient(to left, #0f7690, #016467);
-    color: white;
+    background-color: #fffacf;
+    color: rgb(45, 45, 45);
 }
 
 .bgc{
-    background-color: rgb(1, 233, 233);
-    color: rgb(79, 79, 79);
+    background-color: #b0fff5;
+    color: rgb(45, 45, 45);
     margin-bottom: 5%;
 }
 
